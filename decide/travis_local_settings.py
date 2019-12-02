@@ -30,8 +30,8 @@ BASEURL = 'http://localhost:8000'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgre',
-        'USER': 'postgre',
+        'NAME': 'postgres',
+        'USER': 'postgres',
         'HOST': 'localhost',
         'PORT': '5432',
     }
